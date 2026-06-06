@@ -47,7 +47,7 @@ and transaction processing via RESTful APIs, enhanced with JWT-based security an
 
 ###  Authentication
 
-- `POST /api/user/register` → Register new user  
+- `POST /api/users/register` → Register new user  
 - `POST /api/auth/login` → Authenticate user & get JWT token  
 
 ---
