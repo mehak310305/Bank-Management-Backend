@@ -79,7 +79,7 @@ and transaction processing via RESTful APIs, enhanced with JWT-based security an
 
 ###  Reports
 
-- `GET /api/users/download/statements` → Transaction statement list 
+- `GET /api/users/download/statement` → Transaction statement list 
 
 ---
 
